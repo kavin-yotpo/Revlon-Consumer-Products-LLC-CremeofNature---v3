@@ -56,7 +56,7 @@ function StarRating(props) {
                 ></div>
               </section>
 
-              <section>
+              {/* <section>
                 <h1>Collections Star Rating</h1>
                 <div
                   className="yotpo-widget-instance"
@@ -65,7 +65,7 @@ function StarRating(props) {
                   data-yotpo-section-id="collection"
                   mode-preview={productid === "" ? "true" : ""}
                 ></div>
-              </section>
+              </section> */}
             </div>
           </div>
 
